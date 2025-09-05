@@ -1,5 +1,5 @@
 /* ---------------- TYPING EFFECT ---------------- */
-const roles = ["Data Analyst.", "Data Scientist.", "Analytics Engineer", "Data Science student."];
+const roles = ["Data Analyst.", "Data Scientist.", "Analytics Engineer.", "Data Science student."];
 let roleIdx = 0, charIdx = 0, deleting = false;
 const typingEl = document.getElementById("typing");
 
